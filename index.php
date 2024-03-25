@@ -22,6 +22,7 @@
             </ul>
         </div>
     </section>
+    //form-input
     <section>
     <?php
     $sql = "SELECT * FROM tb_berita";
